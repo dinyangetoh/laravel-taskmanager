@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b23ad61bbbc740e2b1edb247fc186a45",
+    "content-hash": "a1e1858de6437113e77759e4ca203c48",
     "packages": [
         {
             "name": "dinyangetoh/simple-taskmanager",
-            "version": "dev-master",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dinyangetoh/simple-taskmanager.git",
-                "reference": "6743ddf45534845abe74727093f19ba73749e0f7"
+                "reference": "5014c4ba243758c2e52d6c2d00bd244d57311c38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dinyangetoh/simple-taskmanager/zipball/6743ddf45534845abe74727093f19ba73749e0f7",
-                "reference": "6743ddf45534845abe74727093f19ba73749e0f7",
+                "url": "https://api.github.com/repos/dinyangetoh/simple-taskmanager/zipball/5014c4ba243758c2e52d6c2d00bd244d57311c38",
+                "reference": "5014c4ba243758c2e52d6c2d00bd244d57311c38",
                 "shasum": ""
             },
             "require": {
@@ -54,7 +54,7 @@
                 }
             ],
             "description": "A Laravel package that adds simple task management functionality to an app",
-            "time": "2017-12-02 00:53:23"
+            "time": "2017-12-02T02:12:42+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -3961,9 +3961,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "dinyangetoh/simple-taskmanager": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
